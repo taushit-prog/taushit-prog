@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Taushit! 👋
 
 ### 🎓 Academic Profile
 - **Branch:** [Computer Science & Engineering]
