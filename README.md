@@ -2,10 +2,10 @@
 
 ### 🎓 Academic Profile
 - **Branch:** [Computer Science & Engineering]
-- **Year:** [1st Year]
+- **Year:** [2nd Year]
 
 ### 🚀 My Goal
-I hope to learn how to build scalable full-stack applications and contribute effectively to open-source projects this year.
+I hope to learn how to build scalable full-stack applications and contribute effectively to open-source projects.
 
 ---
 *“The beautiful thing about learning is that no one can take it away from you.”*
